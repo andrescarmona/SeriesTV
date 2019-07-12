@@ -1,2 +1,2 @@
 # SeriesTV
-Python Class introduction to github
+Python class exercise as introduction to github
